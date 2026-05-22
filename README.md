@@ -1,2 +1,40 @@
-# smart_waste_management
-AI-based waste detection and management system using Python and Streamlit
+# ♻️ Smart Waste Management System
+
+## 📌 Overview
+This project is an AI-based Waste Detection and Management System built using Python and Streamlit.  
+It helps in identifying waste types and supports better waste management solutions for smart cities.
+
+---
+
+## 🚀 Features
+- Waste detection using AI/ML concepts  
+- Interactive Streamlit dashboard  
+- Simple and user-friendly interface  
+- Can be extended with location mapping and automation  
+
+---
+
+## 🛠 Technologies Used
+- Python  
+- Streamlit  
+- Machine Learning (basic concept)  
+
+---
+
+## 📂 Project Structure
+smart_waste_management/
+│── app.py
+│── README.md
+
+---
+
+## 🎯 Future Improvements
+- Add real-time camera detection  
+- Integrate location-based waste mapping  
+- Improve ML model accuracy  
+- Add database storage  
+
+---
+
+## 👩‍💻 Author
+Samala Babitha  
