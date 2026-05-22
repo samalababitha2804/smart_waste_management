@@ -28,6 +28,16 @@ smart_waste_management/
 
 ---
 
+## ▶️ How to Run This Project
+
+1. Install required library:
+   pip install streamlit
+   
+2. Run the application:
+   streamlit run app.py
+   http://localhost:8501
+   
+
 ## 🎯 Future Improvements
 - Add real-time camera detection  
 - Integrate location-based waste mapping  
