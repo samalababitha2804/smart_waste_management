@@ -36,6 +36,8 @@ smart_waste_management/
 2. Run the application:
    streamlit run app.py
    http://localhost:8501
+
+   Live Demo: https://smartwastemanagement-ashpqqefxn9qvrneadnzfm.streamlit.app/
    
 
 ## 🎯 Future Improvements
